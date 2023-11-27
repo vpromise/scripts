@@ -9,9 +9,6 @@ hostname = api.weibo.cn
 ^https:\/\/api\.weibo\.cn\/2\/users\/show\? url script-request-header https://github.com/vpromise/scripts/raw/main/quan/vvebo.js
 ^https:\/\/api\.weibo\.cn\/2\/statuses\/user_timeline\? url script-request-header https://github.com/vpromise/scripts/raw/main/quan/vvebo.js
 ^https:\/\/api\.weibo\.cn\/2\/statuses\/user_timeline\? url script-response-body https://github.com/vpromise/scripts/raw/main/quan/vvebo.js
-^https:\/\/api\.weibo\.cn\/2\/users\/show\? url script-request-header https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js
-^https:\/\/api\.weibo\.cn\/2\/statuses\/user_timeline\? url script-request-header https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js
-^https:\/\/api\.weibo\.cn\/2\/statuses\/user_timeline\? url script-response-body https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js
 *************************
 
 *****************************************/
