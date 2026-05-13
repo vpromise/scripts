@@ -1,0 +1,26 @@
+# ByBit
+DOMAIN,bybit-exchange.github.io, ByBit
+DOMAIN,app-measurement.com, ByBit
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com, ByBit
+DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de, ByBit
+# DOMAIN-SUFFIX,amazon.com, 亚马逊|ByBit
+# DOMAIN-SUFFIX,amazonaws.com, 亚马逊|ByBit
+DOMAIN-SUFFIX,bybit.biz, ByBit
+DOMAIN-SUFFIX,bybit.com, ByBit
+DOMAIN-SUFFIX,bycsi.com, ByBit
+DOMAIN-SUFFIX,bytick.com, ByBit
+DOMAIN-SUFFIX,byapis.com, ByBit
+DOMAIN-SUFFIX,bycbe.com, ByBit
+DOMAIN-SUFFIX,bymj.io, ByBit
+DOMAIN-SUFFIX,byabcde.com, ByBit
+DOMAIN-SUFFIX,byapps.net, ByBit
+DOMAIN-SUFFIX,byd3c3.com, ByBit
+DOMAIN-SUFFIX,bybdc6.com, ByBit
+DOMAIN-SUFFIX,appsflyer.com, ByBit
+IP-CIDR,13.32.121.6/32,ByBit
+IP-CIDR,43.133.238.145/32,ByBit
+IP-CIDR,13.33.187.108/32,ByBit
+IP-CIDR,150.109.230.182/32,ByBit
+IP-CIDR,142.251.215.234/32,ByBit
+IP-CIDR,43.133.241.84/32,ByBit
+IP-CIDR,3.160.150.37/32,ByBit
